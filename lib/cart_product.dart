@@ -22,7 +22,7 @@ class CartProduct extends StatelessWidget {
             ),
             Container(
               margin: EdgeInsets.only(bottom: 8),
-                child: Text('ID: ${id_product1.toString()}', style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),),
+                child: Text('Артикул: ${id_product1.toString()}', style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),),
             ),
             Container(
               margin: EdgeInsets.only(bottom: 8),
