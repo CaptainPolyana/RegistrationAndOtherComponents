@@ -1,16 +1,14 @@
 # flutter_registration_and_listview
 
-A new Flutter project.
+## Начальный экран
+![image](https://github.com/CaptainPolyana/RegistrationAndOtherComponents/assets/145181221/fd064e25-236c-473e-990b-99b210f970bc)
 
-## Getting Started
+## Экран регистрации
+![image](https://github.com/CaptainPolyana/RegistrationAndOtherComponents/assets/145181221/8491661c-97a7-4070-84a2-e5ac7766322b)
 
-This project is a starting point for a Flutter application.
+## Экран списка товаров
+![image](https://github.com/CaptainPolyana/RegistrationAndOtherComponents/assets/145181221/a7a83a57-5b9f-47a8-a3e1-7894df03e44c)
 
-A few resources to get you started if this is your first Flutter project:
+## Экран карточки товара
+![image](https://github.com/CaptainPolyana/RegistrationAndOtherComponents/assets/145181221/e94cb189-9d9a-473b-9154-e904be523fb5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
